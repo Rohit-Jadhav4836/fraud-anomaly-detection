@@ -2,9 +2,24 @@
 
 An unsupervised machine learning system that detects anomalous credit card transactions using Isolation Forest — without ever seeing fraud labels during training. Built on the real Kaggle/ULB Credit Card Fraud dataset.
 
-🔗 **Live Demo:** [Add your Streamlit Cloud link after deployment]
+🔗 **Live Demo:** 
 
-![Dashboard Preview](screenshots/ss_1.png)
+## Dashboard Preview
+
+<img width="1916" height="911" alt="ss-1" src="https://github.com/user-attachments/assets/adcd95e1-529d-4600-bcdb-d463c46afcd1" />
+
+
+
+<img width="1915" height="867" alt="ss-2" src="https://github.com/user-attachments/assets/b1c24913-92cf-4359-97df-e462f60c3001" />
+
+
+
+
+<img width="1911" height="910" alt="ss-3" src="https://github.com/user-attachments/assets/f4242ea0-d874-4dad-88e5-e8e5e22cd1f4" />
+
+
+
+
 
 ## Overview
 
